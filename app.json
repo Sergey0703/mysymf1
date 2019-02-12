@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "mysymf1",
+  "scripts": {
+  },
+  "stack": "cedar-14"
+}
